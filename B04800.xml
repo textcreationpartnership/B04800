@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The presentments of the grand-jury for the county of Northampton, at Lent-Assizes, anno tricesimo quinto Regis Caroli Secundi.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04800</idno>
+            <idno type="STC">Wing P3290A</idno>
+            <idno type="STC">ESTC R226404</idno>
+            <idno type="EEBO-CITATION">49520957</idno>
+            <idno type="OCLC">ocm 49520957</idno>
+            <idno type="VID">174193</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04800)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174193)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2674:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The presentments of the grand-jury for the county of Northampton, at Lent-Assizes, anno tricesimo quinto Regis Caroli Secundi.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Civil rights --  England --  Early works to 1800.</term>
+               <term>Grand jury --  England --  Northampton --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174193:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>THE PRESENTMENTS OF The Grand-Jury for the County of NORTHAMPTON, AT <hi>Lent</hi>-Aſsizes, Anno Triceſimo quinto Regis <hi>Caroli</hi> Secundi.</head>
+            <p>WE have ſeen the Preſentments of the Grand-Jury Sworn for the Body of this County at <hi>Eaſter</hi>-Seſsions laſt paſt, in theſe words following:
+<hi>AD Generalem Seſsionem Pacis Domini Regis tent' apud</hi> Northampton <hi>pro Com' predict' die</hi> Martis <hi>prox' poſt Feſtum</hi> Epiphan' <hi>Dom' Anno Regni Domini noſtri</hi> Caroli <hi>Secundi Dei gratia</hi> Angl' Scoc' Franc' <hi>&amp;</hi> Hiberniae <hi>Regis Fidei Defenſor' &amp;c. Triceſimo quarte.</hi>
+            </p>
+            <p>The Preſentments of the GRAND-JURY of the County of <hi>Northampton.</hi>
+            </p>
+            <p>WE preſent it as a neceſſary Duty upon all Magiſtrates, to put all the Laws in Execution which are made to Suppreſs Unlawful Aſſo<g ref="char:EOLhyphen"/>ciations, Conventicles, Clubbs and Cabals, becauſe we find by daily Experience, that in thoſe Neſts have been hatched all the Sedi<g ref="char:EOLhyphen"/>tious Practices which of late have much endangered the Peace of the Nation.</p>
+            <p>
+               <hi>Item,</hi> More particularly we preſent all Unlicenſed Coffee-houſes or Places wherein Falſe and Seditious News are invented and ſpread abroad to delude and poyſon the People.</p>
+            <p>
+               <hi>Item,</hi> We preſent all Publique Meetings of any conſiderable number of people who may be ſuſpected of diſaffection to the Government, to be very Dangerous to the Publique Peace, and expedient to be Suppreſſed, Saving where there ſhall appear any lawful warrantable oc<g ref="char:EOLhyphen"/>caſion of ſuch meeting.</p>
+            <p>
+               <hi>Item,</hi> We preſent as a thing abſolutely convenient and neceſſary, that all Laws be duly put in execution againſt all Diſſenters from the Church of <hi>England,</hi> as it is by Law eſtabliſhed, of what perſwaſion ſoever, it being impoſſible to diſtinguiſh Papiſts from others, Both ex<g ref="char:EOLhyphen"/>tremes being equally dangerous and deſtructive to the Eſtabliſht Government; And ſeeing that ſeveral of them take it upon themſelves to Teach and Preach in Unlawful Aſſemblies, Conventicles and Meetings, and there Seduce many of his Majeſties Subjects from their Duty and Allegiance, We do therefore deſire that the Oaths of Allegiance and Supremacy may be tendred and adminiſtred to them and to all the Perſons before ſpoken of, and to all other Perſons of ſuſpected Faith and Allegiance to his Majeſty and his Lawful Heirs and Succeſſors, for the better Diſcovery of men ill-affected to the King and the State of this Realm, and conſequently for the Prevention and Diſappointment of their Evil Purpoſes.</p>
+            <p>And we do deſire ſuch further and effectual care may be taken for the Preſervation of the Publique Peace and the Tranquillity of his Ma<g ref="char:EOLhyphen"/>jeſties good Subjects, as in your Judgments you ſhall think legal and meet.</p>
+            <p>Upon delivering the Preſentments above mentioned into the Court by the Grand-Jury ſworn to enquire for the Body of the County, it was Ordered, That they have the Hearty Thanks of the Court for their Loyal and Seaſonable Preſentments, and Sir <hi>Roger Norwich</hi> Baro<g ref="char:EOLhyphen"/>net is deſired to acquaint ſome of the Miniſters of State with the Contents, humbly to beſeech his Majeſty to grant his Commiſſion to cer<g ref="char:EOLhyphen"/>tain Perſons authorizing them to give the Oaths aforeſaid, and receive his further Command.</p>
+            <p>We do fully concurr with them in Sence and Judgment, and are credibly informed, that his Majeſty hath well approved the ſaid Preſent<g ref="char:EOLhyphen"/>ments, and thereupon hath given Commiſſion and Power to ſeveral Lords and Gentlemen to tender and give the Oath accordingly.</p>
+            <p>Upon Conſideration thereof, we think it our duty to preſent it as neceſſary and expedient for the Good of the King and Kingdom in General, and this County in particular, that it be forthwith tendred to all Perſons ſuſpected to be Papiſts, or of Popiſh Principles, and to all and other Recuſants and Diſſenters from the Church of <hi>England,</hi> of what perſwaſion ſoever. And whereas we find by experience, that ill men for the ſupporting of Faction and the obſtructing of Juſtice, do endeavour to get themſelves into publique Offices, Truſts and Em<g ref="char:EOLhyphen"/>ployments, the better to compaſs their wicked Deſigns; For the prevention thereof, and to the end that good and lawful men may be en<g ref="char:EOLhyphen"/>couraged and employed, We do therefore preſent it as a neceſſary and previous Teſt, That all Officers whatſoever, and namely High-Con<g ref="char:EOLhyphen"/>ſtables, Petty-Conſtables, Bayliffs, Church-Wardens, Overſeers of the Poor, and other Officers and Miniſters, before they enter upon the Execution of their Authority, may take the Oaths of Allegiance and Supremacy, and produce a Certificate under the hand of the Miniſter of the Pariſh wherein they live, That they are perſons conformable to the Church Government, and have received the Sacrament according to the Rites of the Church of <hi>England</hi> within Twelve Months laſt paſt.</p>
+            <p>And further, Whereas all Ale-houſe-keepers and Victuallers, and other Perſons keeping publique houſes, have a great advantage of ſpread<g ref="char:EOLhyphen"/>ing Seditious News in reſpect all ſorts of People frequent thoſe places, and have a great temptation likewiſe ſo to do in regard of the Cuſtome it drawes to them; We do therefore preſent it as Expedient, that none be Licenſed for the time to come but thoſe that ſhall take the aforeſaid Oaths, and in all things teſtifie their conformity to the Government in Church and State.</p>
+            <p>And whereas ſeveral Robberies have been of late committed within this County, to the great grievance and burden of his Majeſties good Subjects, and that the ſaid Robbers and Thieves are aided and encouraged by ſeveral Ale-houſe-keepers and Victuallers who are Confederates with them and Setters for them, We therefore deſire for the future, That all Inns, Ale-houſes and other publick houſes of Entertainment, do give notice to their Conſtables or other Officers, of all ſuſpicious Perſons that ſhall come to their houſes, to the End that Account may be taken of them; And on fayler hereof they may be ſuppreſſed.</p>
+            <p>And whereas ſeveral good men who would willingly perform and execute their Duties, yet for want of knowledge or information know not how to perform the ſame, and others pretending ignorance, will not do it, We therefore preſent, That it is convenient and neceſ<g ref="char:EOLhyphen"/>ſary for the due execution of the Laws, that all Officers at Aſſizes and Seſſions of the Peace, have certain Articles comprehending their Du<g ref="char:EOLhyphen"/>ties exhibited to them before they make their Preſentments, and may be enjoyned to anſwer upon Oath particularly to them.</p>
+            <closer>
+               <signed>Subſcribed by the whole Grand-Jury.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
